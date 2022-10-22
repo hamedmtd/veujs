@@ -1,7 +1,9 @@
 {
-  "name": "growin_test_hamedmtd",
+  "name": "test_hamedmtd",
   "version": "0.1.0",
   "private": true,
+  "author": "hamed maktabdar <hamed73m@gmail.com>",
+  "description": "test front-end --- using veu.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
