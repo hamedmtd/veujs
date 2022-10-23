@@ -1,16 +1,13 @@
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-  <!-- <MainPage msg="Welcome" /> -->
-  <MainPage />
+  <Home />
 </template>
 
 <script>
-import MainPage from './components/mainPage.vue'
-
+import Home from './components/home.vue'
 export default {
   name: 'App',
   components: {
-    MainPage
+    Home
   }
 }
 </script>

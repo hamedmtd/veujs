@@ -2,7 +2,7 @@
   "name": "test_hamedmtd",
   "version": "0.1.0",
   "private": true,
-  "author": "hamed maktabdar <hamed73m@gmail.com>",
+  "author": "hamed maktabdar roshkhar <hamed73m@gmail.com>",
   "description": "test front-end --- using veu.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.0",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
